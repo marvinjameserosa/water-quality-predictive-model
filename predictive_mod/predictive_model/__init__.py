@@ -1,1 +1,1 @@
-from predictive_model import forecast
+from . import forecast
