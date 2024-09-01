@@ -1,1 +1,1 @@
-from . import forecast
+from . import arima
