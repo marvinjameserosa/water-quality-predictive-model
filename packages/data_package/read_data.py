@@ -25,7 +25,4 @@ def read_data(PORT : str, BAUDRATE : int ) -> dict:
     data_dict['exception'] = error
 
   return data_dict    
-
-
-def test():
-  print("Successfully imported")
+ 
